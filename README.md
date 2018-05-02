@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # start
 This application was generated using JHipster 4.14.3, you can find documentation and help at [http://www.jhipster.tech/documentation-archive/v4.14.3](http://www.jhipster.tech/documentation-archive/v4.14.3).
 
@@ -165,3 +166,7 @@ To configure CI for your project, run the ci-cd sub-generator (`jhipster ci-cd`)
 [Protractor]: https://angular.github.io/protractor/
 [Leaflet]: http://leafletjs.com/
 [DefinitelyTyped]: http://definitelytyped.org/
+=======
+# ComputerParc
+open source project for management computer park with JHipster  
+>>>>>>> 28002d6266f570c5742855bbc8fee9011870e846
